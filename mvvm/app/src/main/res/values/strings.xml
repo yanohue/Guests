@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mvvm</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="search">search</string>
+</resources>
